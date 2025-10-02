@@ -1,0 +1,12 @@
+{
+	"title":"SimpleTimes",
+	"description":"Keepin it simple here",
+	"contributors": [
+		{
+			"name": "Sphis"
+		}
+	],
+	"api_version":"0.7.5",
+	"mod_version":"0.1.0",
+	"license":"CC BY 4.0,MIT"
+}
